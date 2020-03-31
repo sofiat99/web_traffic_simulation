@@ -3,9 +3,9 @@
 
 Prediccion del tráfico en la web en la página de wikipedia, centrado en ocho países diferentes y la página más concurrida.
 
-Diana Sofía Torres Carreño
-Daniela Quintero León
-Luis Carlos Jimenez Arciniegas
+Diana Sofía Torres Carreño \n
+Daniela Quintero León \n
+Luis Carlos Jimenez Arciniegas \n
 María Camila Aparicio Nova
 
 
